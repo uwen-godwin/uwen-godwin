@@ -23,6 +23,11 @@ I'm  a dedicated full-stack software engineer with expertise in web development.
   - React
   - Angular
 
+## GitHub Statistics
+
+![Godwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=uwen-godwin&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uwen-godwin&layout=compact&theme=radical)
  ## Contact Me
 
 - **Email**: [uwengodwin001@gmail.com]
