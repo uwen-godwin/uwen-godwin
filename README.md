@@ -6,7 +6,7 @@ I'm a full-stack software engineer passionate about crafting innovative solution
 
 ## Statistics
 
-![Godwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=uwen-godwin&show_icons=true&theme=radical)
+![Godwin GitHub stats](https://github-readme-stats.vercel.app/api?username=uwen-godwin&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uwen-godwin&layout=compact&theme=radical)
   
