@@ -6,10 +6,25 @@ I'm Godwin Uwen, a passionate full-stack software engineer with a focus on [ment
 
 ## Skills
 
-- **Programming Languages**: [List the programming languages you're proficient in]
-- **Frameworks & Libraries**: [List any frameworks or libraries you have experience with]
-- **Databases**: [Mention any databases you're familiar with]
-- **Tools & Technologies**: [Highlight any tools or technologies you frequently use]
+## Skills
+
+- **Programming Languages**: C, Python, HTML, CSS
+- **Data Structures & Algorithms**: 
+  - Arrays
+  - Linked Lists
+  - Stacks
+  - Queues
+  - Trees (Binary Trees, Binary Search Trees)
+  - Hash Tables
+  - Sorting Algorithms (Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, Quick Sort)
+  - Searching Algorithms (Linear Search, Binary Search)
+  - Recursion
+- **Frameworks & Libraries**:
+  - Flask
+  - Django
+  - React
+  - Angular
+
 
 ## Projects
 
