@@ -1,8 +1,8 @@
 # Godwin Uwen
 
-## About Me
+## Hi there! 👋
 
-Hi there! 👋 I'm Godwin Uwen, a passionate full-stack software engineer with a focus on [mention any particular areas of interest or expertise]. I enjoy tackling complex problems and building innovative solutions that make a positive impact.
+I'm Godwin Uwen, a passionate full-stack software engineer with a focus on [mention any particular areas of interest or expertise]. I enjoy tackling complex problems and building innovative solutions that make a positive impact.
 
 ## Skills
 
