@@ -29,4 +29,4 @@ I'm  a dedicated full-stack software engineer with expertise in web development.
 - **LinkedIn**: [https://www.linkedin.com/in/godwin-uwen/]
   
 
-Feel free to reach out to me if you have any questions or opportunities to discuss! 😊
+**Feel free to reach out to me if you have any questions or opportunities to discuss! 😊**
