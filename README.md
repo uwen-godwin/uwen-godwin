@@ -2,7 +2,7 @@
 
 ## Hi there! 👋
 
-I'm Godwin Uwen, a full-stack software engineer with expertise in web development. My skills span both front-end and back-end technologies, including HTML, CSS, JavaScript, React, Angular, Node.js, Python, Flask, and Django. You're proficient in designing and implementing dynamic user interfaces, as well as building robust server-side applications. Your experience encompasses database management, data structures, and algorithms, allowing you to create efficient and scalable solutions across the entire software development stack.
+I'm Godwin Uwen, a full-stack software engineer with expertise in web development. My skills span both front-end and back-end technologies, including HTML, CSS, JavaScript, React, Angular, Node.js, Python, Flask, and Django. You're proficient in designing and implementing dynamic user interfaces, as well as building robust server-side applications. My experience encompasses database management, data structures, and algorithms, allowing me to create efficient and scalable solutions across the entire software development stack.
 
  ## Skills
 
