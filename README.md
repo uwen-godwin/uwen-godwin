@@ -14,8 +14,10 @@ I'm Godwin Uwen, a full-stack software engineer dedicated to crafting innovative
  ![JavaScript Logo](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
  ![Git Logo](https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg)
  ![VSCode Logo](https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg)
- ![Godwin GitHub stats](https://github-readme-stats.vercel.app/api?username=uwen-godwin&show_icons=true&theme=radical)
 
+## Statistics
+
+ ![Godwin GitHub stats](https://github-readme-stats.vercel.app/api?username=uwen-godwin&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uwen-godwin&layout=compact&theme=radical)
   
 **Feel free to reach out to me if you have any questions or opportunities to discuss! 😊**
