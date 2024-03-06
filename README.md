@@ -26,7 +26,7 @@ I'm Godwin Uwen, a full-stack software engineer with expertise in web developmen
  ## Contact Me
 
 - **Email**: [uwengodwin001@gmail.com]
-- **LinkedIn**: [https://www.linkedin.com/in/godwin-uwen/]
+- (LinkedIn) [https://www.linkedin.com/in/godwin-uwen/]
   
 
 Feel free to reach out to me if you have any questions or opportunities to discuss! 😊
