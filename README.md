@@ -6,7 +6,7 @@ I'm  a dedicated full-stack software engineer with expertise in web development.
 
  ## Skills
 
-- **Programming Languages**: C, Python, HTML, CSS
+- **Programming Languages**: C, Python, HTML, CSS, Javascript 
 - **Data Structures & Algorithms**: 
   - Arrays
   - Linked Lists
