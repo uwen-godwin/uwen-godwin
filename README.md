@@ -2,7 +2,7 @@
 
 ## Hi there! 👋
 
-I'm Godwin Uwen, a passionate full-stack software engineer with a focus on [mention any particular areas of interest or expertise]. I enjoy tackling complex problems and building innovative solutions that make a positive impact.
+I'm Godwin Uwen, a full-stack software engineer with expertise in web development. Your skills span both front-end and back-end technologies, including HTML, CSS, JavaScript, React, Angular, Node.js, Python, Flask, and Django. You're proficient in designing and implementing dynamic user interfaces, as well as building robust server-side applications. Your experience encompasses database management, data structures, and algorithms, allowing you to create efficient and scalable solutions across the entire software development stack.
 
 ## Skills
 
