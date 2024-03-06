@@ -1,8 +1,10 @@
 # Godwin Uwen
 
+      Full-stack Software Engineer
+
 ## Hi there! 👋
 
-I'm Godwin Uwen, a full-stack software engineer dedicated to crafting innovative solutions that positively impact users' lives. With a focus on web development, I thrive on tackling complex challenges and building robust applications that deliver exceptional user experiences. My expertise encompasses a variety of languages and tools across both front-end and back-end technologies, enabling me to cover every stage of the software development lifecycle.
+ I thrive on tackling complex challenges and building robust applications that deliver exceptional user experiences. My expertise encompasses a variety of languages and tools across both front-end and back-end technologies, enabling me to cover every stage of the software development lifecycle.
 
 ## Languages and Tools
 
